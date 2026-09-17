@@ -61,7 +61,7 @@
    "fieldname": "account_name",
    "fieldtype": "Link",
    "label": "Account Name",
-   "options": "Account Master"
+   "options": "Service Account Master"
   },
   {
    "fetch_from": "account_name.select_billing_state",

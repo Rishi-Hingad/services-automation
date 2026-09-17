@@ -112,7 +112,7 @@
    "fieldname": "product_name",
    "fieldtype": "Link",
    "label": "Product Name",
-   "options": "Product Master"
+   "options": "Service Product Master"
   },
   {
    "fetch_from": "product_name.product_category",
@@ -210,7 +210,7 @@
    "fieldname": "account_name",
    "fieldtype": "Link",
    "label": "Account Name",
-   "options": "Account Master"
+   "options": "Service Account Master"
   },
   {
    "fetch_from": "account_name.account_unique_code",
@@ -283,7 +283,7 @@
    "fieldname": "distributor_name",
    "fieldtype": "Link",
    "label": "Distributor Name",
-   "options": "Distributor Master"
+   "options": "Service Distributor Master"
   },
   {
    "fetch_from": "distributor_name.billing_city",

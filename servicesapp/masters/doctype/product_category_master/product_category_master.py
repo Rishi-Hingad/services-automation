@@ -1,9 +1,3 @@
-# Copyright (c) 2026, Meril and contributors
-# For license information, please see license.txt
-
-# import frappe
 from frappe.model.document import Document
-
-
 class ProductCategoryMaster(Document):
-	pass
+    pass

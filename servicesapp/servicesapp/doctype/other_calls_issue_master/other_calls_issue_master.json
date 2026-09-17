@@ -240,7 +240,7 @@
    "fieldname": "account_name",
    "fieldtype": "Link",
    "label": "Account Name",
-   "options": "Account Master"
+   "options": "Service Account Master"
   },
   {
    "depends_on": "eval:doc.other_calls_regarding==\"Account\"",
